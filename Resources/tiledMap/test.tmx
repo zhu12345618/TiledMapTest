@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="100" height="100" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="tmw_desert_spacing" tilewidth="32" tileheight="32" spacing="1" margin="1">
+  <image source="tmw_desert_spacing.png" width="265" height="199"/>
+ </tileset>
+ <tileset firstgid="49" name="tmw_desert_spacing" tilewidth="33" tileheight="33">
+  <image source="tmw_desert_spacing.png" width="265" height="199"/>
+ </tileset>
+ <layer name="floor" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJztwwEJAAAMBKFL8v1jDpZDwVVTVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVX/AXYxlB0=
+  </data>
+ </layer>
+ <layer name="wall" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt2stOg0AYBtDRrtSVVhf1ilGj9f7+TyckECkpDLZApvWc5FtQYJrOH+bSsAghXG6Qq9DtIM/hQJlFvmuf3Od5zPP6hzzleYi0e5TnPM/ZlrnIczLED90RRT2qvr3b4J42RT2G6Meh2tkVffp2k3u27cdsoHZ2zdT1iM0r1VyRRdrZV1PX4zT0myuySDv7qujb99C+hrqtXbsoP/8I/epxHeJrpPrzchPUYxna11FvYbUey8a5Ls3nYN5yXXMdVl2X1c7/p3pM7blMJdbf6tHuc4Q21aPb95oM6aVMpTnPNFOfU1j1tSbb6lpvxeYehjXG+AcAAHXV/3mznseMq9gfH4ffPXDsmHFV++N5z2MAAAAAAAAAgLF5nyct3udJi/d50mb8SovxKy3Gr7QZv9Ji/EqL8QsAAAAAAAAAAAAAAAAAAAAAAABgGj/WARSz
+  </data>
+ </layer>
+ <layer name="sand" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt3L1OwzAUhmEP/AkhwgRMUDG0TG3v/+qIgYhQmTQOx/bn+H2ks7ZRX9ykrYNzALDcVT/X/dyUPhB8uu+n6+fB+HE748drxWM/T/08Gz1e52ihgA7ldY4OJXWOBqWcvvZ/DdJZ8lrTRlOLTdQ/u7XWJNVnN0stNbH+7JZSbBP1td8a67VP3/+xXvs1vLe3xLov600L601LTddSsHUofQD45eBoooYmemiihx5aWCN6YpvcpjqQirwFxtLSHq22Sd0jBj30eowHAFq3L30ASOJ1NCiPHlroAeTR0v6/WrD3HzE235Nbzedny2PfBKaUWq+bajxmtGXYExoa9onmN+wJDQ37RPOjhxZ6aKGHlmEPe2jY145Y3DOkReGeoV3B51ajcM/QztFEzc7RRRFN6sR1iBaF6xD8CF2HsGbCjoWelzUTdnRlmihcu6sqtUZSq/VewFJrJIdam+Rw+vtsrnM5PcL8OfzCfZ03Ll2+c/nae7yPJobvMTR4MT2iaS29Z8V0GffI7eDocsr3uMtwLFNaanLO8JmjJHoAAAAA8fh9TQu/r2lp7fe1veP/2yihhc49vDnWxjbx469JTIul3baOJnPNXR8W64gm88ztYYG1ct7U336q8wtNpu0nJhXWiqato42qmpv4+3Vi9wXVoNYm9Dgv53fDa+3hWZ1Pcn43vOYenkWPnN8Nr72HV9N1Vws9BjV1aQVN9NADAGDpA9lzI7k=
+  </data>
+ </layer>
+ <objectgroup name="hero">
+  <object name="pa" gid="40" x="100" y="100"/>
+ </objectgroup>
+</map>
